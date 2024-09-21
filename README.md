@@ -4,7 +4,7 @@
 ### An aspiring web developer from Bangladesh!
 
 - 🌱 I’m currently learning **Advanced CSS & JavaScript**
-- 📫 How to reach me **unayeem33@gmail.com**
+- 📫 How to reach me **nayeem.webdev@gmail.com**
 
 ---
 
