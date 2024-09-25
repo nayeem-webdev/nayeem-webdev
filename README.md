@@ -1,4 +1,4 @@
-![Cover Photo](https://drive.google.com/uc?export=view&id=1_fF1oE8oir_IrFXoVxTB77eMbFVLVEVz)
+![Cover Photo]([https://drive.google.com/uc?export=view&id=1_fF1oE8oir_IrFXoVxTB77eMbFVLVEVz](https://raw.githubusercontent.com/nayeem-webdev/asset-host/refs/heads/main/github-cover.png))
 
 # Hola 👋, I'm MD Nayeem Uddin
 ### An aspiring web developer from Bangladesh!
@@ -15,9 +15,9 @@
 
 ---
 
-### Languages and Tools:
+### Web Technologies & Frontend Stack:
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-right: 40px;"/>
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://raw.githubusercontent.com/nayeem-webdev/asset-host/refs/heads/main/HTML.png)" alt="HTML" width="80" height="80" style="margin-right: 40px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin-right: 40px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 40px;"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 40px;"/>
