@@ -12,10 +12,6 @@
 
 ###
 
-<h2 align="left">Tools & Framework</h2>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
@@ -24,6 +20,9 @@
 
 ###
 
+<h2 align="left">Tools & Framework</h2>
+
+###
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -49,6 +48,21 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
 </div>
+
+###
+
+<h2 align="left">📬 Connect with Me</h2>
+
+###
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayeem-webdev&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-webdev&layout=compact&theme=radical" alt="Top Languages" width="400" height="200"/>
+</div>
+
+###
+
+<h2 align="left">Contact Me</h2>
 
 ###
 
