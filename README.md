@@ -57,6 +57,7 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=nayeem-webdev&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&lineCount=2&theme=radical&username=nayeem-webdev" alt="Tech Stack" width="350" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-webdev&layout=compact&theme=radical" alt="Top Languages" height="200"/>
 </div>
 
